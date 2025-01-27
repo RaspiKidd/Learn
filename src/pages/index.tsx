@@ -14,27 +14,53 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          Welcome to the RaspiKidd Learning Hub!
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
+        <p className="hero__subtitle">
+        Explore fun, interactive STEM activities, resources, and tutorials to spark creativity and innovation.
+        </p>
+        <div className="row">
+          <div className={styles.buttons}>
+            <Link
+              className="button button--secondary button--lg"
+              to="#">
+              Parents Guide to the micro:bit
+            </Link>
+          </div>
+          <div className={styles.buttons}>
+            <Link
+              className="button button--secondary button--lg"
+              to="#">
+              Educators Guide to the micro:bit
+            </Link>
+          </div>
+          <div className={styles.buttons}>
+            <Link
+              className="button button--secondary button--lg"
+              to="#">
+              Kids Guide to the micro:bit
+            </Link>
+          </div>
         </div>
       </div>
     </header>
   );
 }
-
+/* Add this under the Sub title
+<div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro">
+            Docusaurus Tutorial - 5min ⏱️
+          </Link>
+        </div> */
 export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`RaspiKidd`}
+      description="Explore fun, interactive STEM activities, resources, and tutorials to spark creativity 
+      and innovation.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

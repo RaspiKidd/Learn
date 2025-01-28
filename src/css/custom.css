@@ -35,11 +35,15 @@
   align-items: center;
   border-radius: 6px;
   margin: 4px;
-  color: white;
-  background-color: #e879f9;
+  background-color: #a21caf;
 }
 
-.button:hover {
+[data-theme='light'] .button {
+  color: white;
+}
+
+[data-theme='light'] .button:hover {
+  color: black;
   background-color: #f5d0fe;
 }
 

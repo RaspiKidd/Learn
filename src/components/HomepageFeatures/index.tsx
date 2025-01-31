@@ -2,7 +2,6 @@ import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
-import Link from '@docusaurus/Link';
 
 type FeatureItem = {
   title: string;
@@ -50,20 +49,17 @@ function Feature({title, Svg, description}: FeatureItem) {
       display: 'flex',
       justifyContent: 'center',
   }}>
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg"
-                to="#">
-            <Heading as="h3">{title}</Heading>
-          </Link>
+      <div className={clsx('col col--4')}>
+        <div className="text--center">
+          <Svg className={styles.featureSvg} role="img" />
         </div>
-        <p>{description}</p>
+        <div className="text--center padding-horiz--md">
+          <div className={styles.buttons}>
+            <Heading as="h3">{title}</Heading>
+          </div>
+          <p>{description}</p>
+        </div>
       </div>
-    </div>
     </div>
   );
 }

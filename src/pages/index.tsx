@@ -19,7 +19,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">
         Explore fun, interactive STEM activities, resources, and tutorials to spark creativity and innovation.
         </p>
-       <div style={{display: 'flex',justifyContent: 'center',}}>
+       <div style={{display: 'flex',justifyContent: 'center'}}>
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
@@ -30,7 +30,7 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
-              to="#">
+              to="/microbit.md">
               Educators Guide to the micro:bit
             </Link>
           </div>
@@ -56,6 +56,9 @@ export default function Home(): ReactNode {
       and innovation.">
       <HomepageHeader />
       <main>
+        <Heading as="h2">
+          Hardware
+        </Heading>
         <HomepageFeatures />
       </main>
     </Layout>

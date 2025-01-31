@@ -56,6 +56,36 @@
   color: #ffffff;
 }
 
-red-text {
+.red-text {
   color: #991b1b;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 35px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 80px;
+  font-size: 18px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 996px) {
+  .column {
+    width: 100%;
+    padding: 2rem;
+  }
+}
+[data-theme='light'] .button:hover {
+  color: black;
+  background-color: #f5d0fe;
 }

@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'MakeCode Projects',
-    src: '#'
+    src: '/MakeCodeProjects'
   },
   {
     title: 'EduBlocks',

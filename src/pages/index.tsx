@@ -30,7 +30,7 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
-              to="/microbit.md">
+              to="#">
               Educators Guide to the micro:bit
             </Link>
           </div>

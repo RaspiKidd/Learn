@@ -82,12 +82,12 @@ const config: Config = {
       items: [
         {to: '/', label: 'Home', position: 'left'},
         {to: '/microbit', label: 'micro:bit', position: 'left'},
-        {
+        /*{
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Tutorial',
-        },
+        },*/
         //{to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/RaspiKidd',

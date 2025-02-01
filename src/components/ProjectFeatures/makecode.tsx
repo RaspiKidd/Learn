@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'Go to Project',
-    src: '#'
+    src: '/docs/MakeCode-Projects/Rock-Paper-Scissors/Overview'
   },
   /*{
     title: 'Create Your Own FitBit',

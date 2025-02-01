@@ -19,7 +19,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">
         Explore fun, interactive STEM activities, resources, and tutorials to spark creativity and innovation.
         </p>
-       <div style={{display: 'flex',justifyContent: 'center'}}>
+       <div style={{display: 'flex',justifyItems: 'center'}}>
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"

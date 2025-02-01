@@ -99,15 +99,15 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
+        /*{
+          title: 'Projects',
           items: [
-            /*{
-              label: 'Tutorial',
-              to: '/docs/intro',
-            },*/
+            {
+              label: 'MakeCode',
+              to: '/docs/MakeCode-Projects',
+            },
           ],
-        },
+        },*/
         {
           title: 'Community',
           items: [

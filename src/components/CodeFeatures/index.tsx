@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'EduBlocks Projects',
-    src: '#'
+    src: '/EduBlocksProjects'
   },
   {
     title: 'microPython',

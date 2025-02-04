@@ -45,7 +45,7 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'microPython Projects',
-    src:'#'
+    src:'PythonProjects'
   },
 ];
 

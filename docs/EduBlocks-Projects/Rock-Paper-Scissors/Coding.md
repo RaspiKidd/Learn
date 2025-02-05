@@ -30,7 +30,7 @@ Think of a variable as a box that stores information that can be used throughout
 
 1. Select Display. Select and drag an `image =` block to the code area and attach it within the `while True:` block.
 2. Drag another two `image =` blocks to the code area attaching them under the first `image =` block.
-3. Within the first `image =` block create the following image to represent Paper by typing 9 (this represents the brightness of the LEDs) in the corresponding squares.
+3. Within the first `image =` block create the following image to represent Paper by typing **9** (this represents the brightness of the LEDs) in the corresponding squares.
 
 ![Representation of Paper](./img/RPS_EB_01.png)
 
@@ -38,7 +38,7 @@ Think of a variable as a box that stores information that can be used throughout
 
 ### Creating Rock
 
-1. Create the following image to represent Rock by typing 9 within the corresponding squares. in the next `image =` block.
+1. Create the following image to represent Rock by typing **9** within the corresponding squares. in the next `image =` block.
 
 ![Representation of Rock](./img/RPS_EB_02.png)
 
@@ -46,7 +46,7 @@ Think of a variable as a box that stores information that can be used throughout
 
 ### Creating Scissors
 
-1. Create the following image to represent Scissors by typing 9 within the corresponding boxes in the remaining `image =` block.
+1. Create the following image to represent Scissors by typing **9** within the corresponding boxes in the remaining `image =` block.
 
 ![Representation of Scissors](./img/RPS_EB_03.png)
 

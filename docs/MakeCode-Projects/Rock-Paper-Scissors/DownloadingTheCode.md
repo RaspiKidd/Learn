@@ -20,3 +20,5 @@ sidebar_position: 4
 4. Select Download.
 
 ![Download Button](./img/DownloadButton.png)
+
+Now that we have downloaded our code, let's find out how to play.

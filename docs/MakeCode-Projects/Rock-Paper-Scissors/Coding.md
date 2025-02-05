@@ -23,7 +23,7 @@ Think of a variable as a box that stores information that can be used throughout
 
 ## Set Choice to
 
-1. Select Variables. Select and drag a `set choice to 0` block to the code area and attach it within the on shake block.
+1. Select Variables. Select and drag a `set choice to 0` block to the code area and attach it within the `on shake` block.
 2. Select Math. Select and drag a `pick random 0 to 10` block to the code area and attach it within the **0** of the `set choice to` block.
 3. Select **10** and type **2**.
 

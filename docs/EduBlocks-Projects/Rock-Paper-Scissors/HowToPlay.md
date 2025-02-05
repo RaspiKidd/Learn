@@ -5,9 +5,7 @@ sidebar_position: 4
 
 Well done you have created your very own Rock Paper Scissors game for the micro:bit.
 
-## How to Play
-
-### Web Browser
+## Web Browser
 
 The EduBlocks Editor has a built-in micro:bit simulator so you can use this if you don't have a micro:bit handy.
 
@@ -20,7 +18,7 @@ The EduBlocks Editor has a built-in micro:bit simulator so you can use this if y
 
 ![Accelerometer Settings](./img/AccelermoeterSettings.png)
 
-### Using the micro:bit
+## Using the micro:bit
 
 Once you have downloaded the code to your micro:bit you can shake the micro:bit and see a rock, paper or scissors image appear on it.
 

@@ -80,7 +80,7 @@ export default {
       {
         type: 'link',
         label: 'PDF Download', // The link label
-        href: '#', // The external URL
+        href: 'https://go.raspikidd.com/EBRPS', // The external URL
       },],
   },
   Python: {
@@ -92,7 +92,7 @@ export default {
       {
         type: 'link',
         label: 'PDF Download', // The link label
-        href: '#', // The external URL
+        href: 'https://go.raspikidd.com/PYRPS', // The external URL
       },],
   },
 };

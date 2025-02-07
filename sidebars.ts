@@ -77,7 +77,7 @@ export default {
       {
         type: 'link',
         label: 'PDF Download', // The link label
-        href: '#', // The external URL
+        href: 'https://go.raspikidd.com/MCSC', // The external URL
       },]
   },
   EduBlocks: {

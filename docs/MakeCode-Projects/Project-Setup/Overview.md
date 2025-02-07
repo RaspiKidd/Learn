@@ -4,13 +4,12 @@ description: 'Creating your very own step counter coded in MakeCode for the micr
 sidebar_position: 1
 ---
 
-![FitBit clone cover image](./img/StepCounter.svg)
 
 ## Overview
 
 We are all familiar with Fitbits and other smart watches even our phones counting our steps through the day. Lets use a micro:bit to code our own.
 
-:::info[NOTE]
+:::info[Note]
 You do not need a micro:bit to do this tutorial you can use the simulator built into the MakeCode editor.
 :::
 

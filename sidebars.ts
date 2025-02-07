@@ -69,7 +69,16 @@ export default {
         href: 'https://go.raspikidd.com/MCRPS', // The external URL
       },],
       
-    'FitBit Clone Project': ['MakeCode-Projects/FitBit-Clone/Overview']
+    'FitBit Clone Project': ['MakeCode-Projects/FitBit-Clone/Overview', 
+      'MakeCode-Projects/FitBit-Clone/Set-Up',
+      'MakeCode-Projects/FitBit-Clone/Coding',
+      'MakeCode-Projects/FitBit-Clone/DownloadingTheCode',
+      'MakeCode-Projects/FitBit-Clone/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: '#', // The external URL
+      },]
   },
   EduBlocks: {
     'Rock Paper Scissors': ['EduBlocks-Projects/Rock-Paper-Scissors/Overview',

@@ -7,7 +7,7 @@ Well done you have created your very own Rock Paper Scissors game for the micro:
 
 ## Web Browser
 
-Using the micro:bit simulator you can drag the mouse over it an see it move or there is a dot with shake next to it, you can select this and it will simulate a shake.
+Using the micro:bit simulator you can drag the mouse over it and see it move or there is a dot with shake next to it, you can select this and it will simulate a shake.
 
 ## Using the micro:bit
 

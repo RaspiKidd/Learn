@@ -25,4 +25,4 @@ If you have already paired your micro:bit to your computer, you can skip this pa
 
 ![Download Button](./img/DownloadButton.png)
 
-Now that we have downloaded our code, let's find out how to play.
+Now that we have downloaded our code, let's find out how to use the step counter.

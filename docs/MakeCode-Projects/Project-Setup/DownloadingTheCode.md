@@ -5,10 +5,6 @@ sidebar_position: 4
 
 ## Downloading the code to the micro:bit
 
-:::info[NOTE]
-If you have already paired your micro:bit to your computer, you can skip this part and just select the **Download** button.
-:::
-
 1. Select the **3 dots** next to **Download**.
 
 ![The three dots](./img/threeDots.png)

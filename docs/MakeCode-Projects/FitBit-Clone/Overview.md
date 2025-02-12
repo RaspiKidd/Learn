@@ -4,7 +4,7 @@ description: 'Creating your very own step counter coded in MakeCode for the micr
 sidebar_position: 1
 ---
 
-![FitBit clone cover image](./img/StepCounter.svg)
+![FitBit clone cover image](./img/counter.png)
 
 ## Overview
 

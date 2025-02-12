@@ -4,7 +4,7 @@ description: 'Rock Paper Scissors game coded in MakeCode for the micro:bit'
 sidebar_position: 1
 ---
 
-![Project cover](./img/counter.jpeg)
+![Project cover](./img/counter.png)
 
 ## Overview
 

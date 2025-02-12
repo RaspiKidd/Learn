@@ -4,7 +4,7 @@ description: 'Creating your own fitbit clone step counter'
 sidebar_position: 1
 ---
 
-![FitBit Clone cover](./img/StepCounter.svg)
+![FitBit Clone cover](./img/counter.png)
 
 ## Overview
 

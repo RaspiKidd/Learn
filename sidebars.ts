@@ -113,6 +113,17 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/PYRPS', // The external URL
       },],
+    
+    'FitBit Clone': ['Python-Projects/FitBit-Clone/Overview',
+      'Python-Projects/FitBit-Clone/Set-Up',
+      'Python-Projects/FitBit-Clone/Coding',
+      'Python-Projects/FitBit-Clone/DownloadingTheCode',
+      'Python-Projects/FitBit-Clone/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: 'https://go.raspikidd.com/PYSC', // The external URL
+      },],
   },
 };
 //export default sidebars;

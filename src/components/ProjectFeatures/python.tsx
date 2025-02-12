@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'Go to Project',
-    src: '/docs/Python-Projects/FitBitClone/Overview'
+    src: '/docs/Python-Projects/FitBit-Clone/Overview'
   }, 
   /*{
     title: 'Sensing the Environment',

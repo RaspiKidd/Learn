@@ -91,6 +91,16 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/EBRPS', // The external URL
       },],
+      'FitBit Clone': ['EduBlocks-Projects/FitBit-Clone/Overview',
+      'EduBlocks-Projects/FitBit-Clone/Set-Up',
+      'EduBlocks-Projects/FitBit-Clone/Coding',
+      'EduBlocks-Projects/FitBit-Clone/DownloadingTheCode',
+      'EduBlocks-Projects/FitBit-Clone/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: 'https://go.raspikidd.com/EBSC', // The external URL
+      },],
   },
   Python: {
     'Rock Paper Scissors': ['Python-Projects/Rock-Paper-Scissors/Overview',

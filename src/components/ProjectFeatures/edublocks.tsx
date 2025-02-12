@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
     Label: 'Go to Project',
     src: '/docs/EduBlocks-Projects/Rock-Paper-Scissors/Overview'
   },
-  /*{
+  {
     title: 'Create Your Own FitBit',
     Svg: require('@site/static/img/ProjectCovers/StepCounter.svg').default,
     description: (
@@ -33,9 +33,9 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'Go to Project',
-    src: '#'
+    src: '/docs/EduBlocks-Projects/FitBit-Clone/Overview'
   }, 
-  {
+  /*{
     title: 'Sensing the Environment',
     Svg: require('@site/static/img/ProjectCovers/EnviroSensing.svg').default,
     description: (

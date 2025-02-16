@@ -35,7 +35,7 @@ const FeatureList: FeatureItem[] = [
     Label: 'Go to Project',
     src: '/docs/MakeCode-Projects/FitBit-Clone/Overview'
   }, 
-  /*{
+  {
     title: 'Sensing the Environment',
     Svg: require('@site/static/img/ProjectCovers/EnviroSensing.svg').default,
     description: (
@@ -45,9 +45,9 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'Go to Project',
-    src:'#'
+    src:'/docs/MakeCode-Projects/Sensing-the-Environment/Overview'
   },
-  {
+ /* {
     title: 'Traffic Lights Add-On Board',
     Svg: require('@site/static/img/ProjectCovers/TrafficLights.svg').default,
     description: (

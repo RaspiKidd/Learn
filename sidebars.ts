@@ -78,6 +78,16 @@ export default {
         type: 'link',
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/MCSC', // The external URL
+      },],
+      'Sensing the Environment Project': ['MakeCode-Projects/Sensing-the-Environment/Overview', 
+      'MakeCode-Projects/Sensing-the-Environment/Set-Up',
+      'MakeCode-Projects/Sensing-the-Environment/Coding',
+      'MakeCode-Projects/Sensing-the-Environment/DownloadingTheCode',
+      'MakeCode-Projects/Sensing-the-Environment/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: 'https://go.raspikidd.com/MCES', // The external URL
       },]
   },
   EduBlocks: {

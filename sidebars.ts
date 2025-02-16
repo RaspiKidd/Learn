@@ -111,6 +111,16 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/EBSC', // The external URL
       },],
+      'Sensing the Environment': ['EduBlocks-Projects/Sensing-the-Environment/Overview',
+      'EduBlocks-Projects/Sensing-the-Environment/Set-Up',
+      'EduBlocks-Projects/Sensing-the-Environment/Coding',
+      'EduBlocks-Projects/Sensing-the-Environment/DownloadingTheCode',
+      'EduBlocks-Projects/Sensing-the-Environment/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: 'https://go.raspikidd.com/EBES', // The external URL
+      },],
   },
   Python: {
     'Rock Paper Scissors': ['Python-Projects/Rock-Paper-Scissors/Overview',

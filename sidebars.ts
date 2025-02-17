@@ -144,6 +144,17 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/PYSC', // The external URL
       },],
+
+      'Sensing the Environment': ['Python-Projects/Sensing-the-Environment/Overview',
+      'Python-Projects/Sensing-the-Environment/Set-Up',
+      'Python-Projects/Sensing-the-Environment/Coding',
+      'Python-Projects/Sensing-the-Environment/DownloadingTheCode',
+      'Python-Projects/Sensing-the-Environment/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: 'https://go.raspikidd.com/PYES', // The external URL
+      },],
   },
 };
 //export default sidebars;

@@ -19,30 +19,14 @@ function HomepageHeader() {
         <p className="hero__subtitle">
         Explore fun, interactive STEM activities, resources, and tutorials to spark creativity and innovation.
         </p>
-       <div style={{display: 'flex',justifyItems: 'center'}}>
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
               to="#">
-              Parents Guide to the micro:bit
-            </Link>
-          </div>
-          <div className={styles.buttons}>
-            <Link
-              className="button button--secondary button--lg"
-              to="#">
-              Educators Guide to the micro:bit
-            </Link>
-          </div>
-          <div className={styles.buttons}>
-            <Link
-              className="button button--secondary button--lg"
-              to="#">
-              Kids Guide to the micro:bit
+              Getting Started with the micro:bit
             </Link>
           </div>
         </div>
-      </div>
     </header>
   );
 }

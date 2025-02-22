@@ -17,11 +17,11 @@ Once you press enter your cursor will automatically indent. Start typing the res
 
 ## Creating the Rock Paper Scissor Variables
 
-:::info[What is a variable]
+:::tip[WHAT IS A VARIABLE]
 Think of a variable as a box that stores information that can be used throughout our program. We give variables a descriptive name so we and others can understand what is going on within our program.
 :::
 
-To create the rock paper scissors vairables type the following code:
+To create the rock paper scissors variables type the following code:
 
 ```python
     Paper = Image("99999:90009:90009:90009:99999")
@@ -44,7 +44,7 @@ while True:
 
 ## Creating the on shake Action
 
-To create the on shake action type the following code below the vairables section.
+To create the on shake action type the following code below the variables section.
 
 ```python
     if accelerometer.was_gesture('shake'):
@@ -100,7 +100,7 @@ while True:
 
 Under the `display.show(Paper)` line we are going to create an elif condition to determine what will happen if choice = 1.
 
-:::note
+:::info[NOTE]
 Make sure you unindent your code so your cursor is back in line with the if condition.
 :::
 
@@ -136,7 +136,7 @@ while True:
 
 Under the `display.show(Rock)` line we are going to create an else condition to determine what will happen if choice = 2.
 
-:::note
+:::info[NOTE]
 Make sure you unindent your code so your cursor is back in line with the elif condition.
 :::
 

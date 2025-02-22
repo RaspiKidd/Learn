@@ -58,7 +58,7 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 export default {
   MakeCode: {
-    'Rock Paper Scissors': ['MakeCode-Projects/Rock-Paper-Scissors/Overview',
+    'Shake, Code & Battle: micro:bit Rock Paper Scissors': ['MakeCode-Projects/Rock-Paper-Scissors/Overview',
       'MakeCode-Projects/Rock-Paper-Scissors/Set-Up',
       'MakeCode-Projects/Rock-Paper-Scissors/Coding',
       'MakeCode-Projects/Rock-Paper-Scissors/DownloadingTheCode',
@@ -102,7 +102,7 @@ export default {
       },]
   },
   EduBlocks: {
-    'Rock Paper Scissors': ['EduBlocks-Projects/Rock-Paper-Scissors/Overview',
+    'Shake, Code & Battle: micro:bit Rock Paper Scissors': ['EduBlocks-Projects/Rock-Paper-Scissors/Overview',
       'EduBlocks-Projects/Rock-Paper-Scissors/Set-Up',
       'EduBlocks-Projects/Rock-Paper-Scissors/Coding',
       'EduBlocks-Projects/Rock-Paper-Scissors/DownloadingTheCode',
@@ -145,7 +145,7 @@ export default {
       },],
   },
   Python: {
-    'Rock Paper Scissors': ['Python-Projects/Rock-Paper-Scissors/Overview',
+    'Shake, Code & Battle: micro:bit Rock Paper Scissors': ['Python-Projects/Rock-Paper-Scissors/Overview',
       'Python-Projects/Rock-Paper-Scissors/Set-Up',
       'Python-Projects/Rock-Paper-Scissors/Coding',
       'Python-Projects/Rock-Paper-Scissors/DownloadingTheCode',

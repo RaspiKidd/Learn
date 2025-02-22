@@ -14,11 +14,12 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'RockPaperScissors',
+    title: 'Shake, Code & Battle: micro:bit Rock Paper Scissors',
     Svg: require('@site/static/img/ProjectCovers/RockPaperScissors.svg').default,
     description: (
       <>
-        Learn how to code the classic game rock, paper scissors on your micro:bit.
+        Shake, battle, and code your way to victory as you transform your micro:bit into the ultimate Rock 
+        Paper Scissors champion that fits right in your pocket!
       </>
     ),
     Label: 'Go to Project',

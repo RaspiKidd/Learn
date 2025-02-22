@@ -13,7 +13,8 @@ The EduBlocks Editor has a built-in micro:bit simulator so you can use this if y
 
 ![Selecting the simulator](./img/SimulatorButton.png)
 
-2. From the **Accelerometer** menu below the simulator select **shake**
+2. From the **Accelerometer** menu below the simulator select **shake**.
+
 3. Select **send** this will now simulate a shake of the micro:bit and display either rock, paper or scissors on the micro:bit simulator.
 
 ![Accelerometer Settings](./img/AccelermoeterSettings.png)

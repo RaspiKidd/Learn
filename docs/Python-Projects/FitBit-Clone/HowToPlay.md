@@ -3,7 +3,7 @@ title: How to Play
 sidebar_position: 4
 ---
 
-Well done you have created your very FitBit Clone Step Counter for the micro:bit.
+Well done you have created your own Step Counter for the micro:bit.
 
 ## Web Browser
 

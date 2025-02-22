@@ -3,7 +3,7 @@ title: How to Play
 sidebar_position: 4
 ---
 
-Well done you have created your very own FitBit clone step counter.
+Well done you have created your very own step counter.
 
 ## Web Browser
 

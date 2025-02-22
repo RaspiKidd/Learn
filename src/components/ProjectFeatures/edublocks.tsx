@@ -25,11 +25,12 @@ const FeatureList: FeatureItem[] = [
     src: '/docs/EduBlocks-Projects/Rock-Paper-Scissors/Overview'
   },
   {
-    title: 'Create Your Own FitBit',
+    title: 'Micro:fit - Your DIY Step Counter',
     Svg: require('@site/static/img/ProjectCovers/StepCounter.svg').default,
     description: (
       <>
-        Learn how to make your own FitBit step counter.
+        Create your own wearable step counter using a micro:bit's accelerometer to track and display your 
+        daily steps, just like a FitBit but built and coded by you!
       </>
     ),
     Label: 'Go to Project',

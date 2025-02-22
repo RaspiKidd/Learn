@@ -58,7 +58,7 @@ This pauses our code for half a second.
 
 ## Resetting Our Step Counter to 0
 
-Now that we have got our steps increaing by one when the micro:bit detects it's been shaken. At the start of a new walk or day we will want to start from 0 again.
+Now that we have got our steps increasing by one when the micro:bit detects it's been shaken. At the start of a new walk or day we will want to start from 0 again.
 
 Let's create some code that will set steps back to 0 when the A button has been pressed.
 

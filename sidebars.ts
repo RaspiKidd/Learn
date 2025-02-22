@@ -69,7 +69,7 @@ export default {
         href: 'https://go.raspikidd.com/MCRPS', // The external URL
       },],
       
-    'FitBit Clone Project': ['MakeCode-Projects/FitBit-Clone/Overview', 
+    'Micro:fit - Your DIY Step Counter': ['MakeCode-Projects/FitBit-Clone/Overview', 
       'MakeCode-Projects/FitBit-Clone/Set-Up',
       'MakeCode-Projects/FitBit-Clone/Coding',
       'MakeCode-Projects/FitBit-Clone/DownloadingTheCode',
@@ -112,7 +112,7 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/EBRPS', // The external URL
       },],
-      'FitBit Clone': ['EduBlocks-Projects/FitBit-Clone/Overview',
+      'Micro:fit - Your DIY Step Counter': ['EduBlocks-Projects/FitBit-Clone/Overview',
       'EduBlocks-Projects/FitBit-Clone/Set-Up',
       'EduBlocks-Projects/FitBit-Clone/Coding',
       'EduBlocks-Projects/FitBit-Clone/DownloadingTheCode',
@@ -156,7 +156,7 @@ export default {
         href: 'https://go.raspikidd.com/PYRPS', // The external URL
       },],
     
-    'FitBit Clone': ['Python-Projects/FitBit-Clone/Overview',
+    'Micro:fit - Your DIY Step Counter': ['Python-Projects/FitBit-Clone/Overview',
       'Python-Projects/FitBit-Clone/Set-Up',
       'Python-Projects/FitBit-Clone/Coding',
       'Python-Projects/FitBit-Clone/DownloadingTheCode',

@@ -88,6 +88,17 @@ export default {
         type: 'link',
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/MCES', // The external URL
+      },],
+      'Signal Builder: DIY micro:bit Traffic Lights': ['MakeCode-Projects/DIY-Traffic-Lights/Overview', 
+      'MakeCode-Projects/DIY-Traffic-Lights/Creating-the-circuit',
+      'MakeCode-Projects/DIY-Traffic-Lights/Set-Up',
+      'MakeCode-Projects/DIY-Traffic-Lights/Coding',
+      'MakeCode-Projects/DIY-Traffic-Lights/DownloadingTheCode',
+      'MakeCode-Projects/DIY-Traffic-Lights/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: 'https://go.raspikidd.com/MCTL', // The external URL
       },]
   },
   EduBlocks: {

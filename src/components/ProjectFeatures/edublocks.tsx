@@ -47,8 +47,8 @@ const FeatureList: FeatureItem[] = [
     Label: 'Go to Project',
     src:'/docs/EduBlocks-Projects/Sensing-the-Environment/Overview'
   },
-  /*{
-    title: 'Traffic Lights Add-On Board',
+  {
+    title: 'Signal Builder: DIY Traffic Lights',
     Svg: require('@site/static/img/ProjectCovers/TrafficLights.svg').default,
     description: (
       <>
@@ -56,9 +56,9 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'Go to Project',
-    src:'#'
+    src:'/docs/EduBlocks-Projects/DIY-Traffic-Lights/Overview'
   },
-  {
+  /*{
     title: 'Throw a Ghost',
     Svg: require('@site/static/img/ProjectCovers/ThrowGhostCover.svg').default,
     description: (

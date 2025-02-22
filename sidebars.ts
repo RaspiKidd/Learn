@@ -132,6 +132,17 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/EBES', // The external URL
       },],
+      'Signal Builder: DIY micro:bit Traffic Lights': ['EduBlocks-Projects/DIY-Traffic-Lights/Overview', 
+      'EduBlocks-Projects/DIY-Traffic-Lights/Creating-the-circuit',
+      'EduBlocks-Projects/DIY-Traffic-Lights/Set-Up',
+      'EduBlocks-Projects/DIY-Traffic-Lights/Coding',
+      'EduBlocks-Projects/DIY-Traffic-Lights/DownloadingTheCode',
+      'EduBlocks-Projects/DIY-Traffic-Lights/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: 'https://go.raspikidd.com/MCTL', // The external URL
+      },]
   },
   Python: {
     'Rock Paper Scissors': ['Python-Projects/Rock-Paper-Scissors/Overview',

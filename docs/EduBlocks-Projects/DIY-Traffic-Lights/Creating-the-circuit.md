@@ -1,11 +1,11 @@
 ---
-title: 'Creating the Traffic Lights'
+title: 'Creating the Circuit'
 sidebar_position: 2
 ---
 
 ## What is an LED
 
-![LED diagram](./img/LEDDiagram.png)
+![LED Diagram](./img/LEDDiagram.png)
 
 An LED (Light Emitting Diode) is a small light bulb that lights up when electricity flows through it. It's just like the tiny lights you see on your toys, TV, or Christmas decorations!
 Every LED has two legs:
@@ -17,21 +17,21 @@ Think of these legs like the LED's feet - they need to be connected the right wa
 
 ## Creating the Circuit
 
-1. Place the bit of cardboard on the desk.
+1. Place the bit of cardboard on the desk
    
 2. Take the red LED and bend the legs out to the sides. Place the LED on the cardboard with the longer leg to the right.
 
-    ![Red LED Placed on Cardboard](./img/TLCircuit01.png)
+![Red LED placed on the carboard](./img/TLCircuit01.png)
 
 3. Take a bit of copper tape or glue and some aluminium foil over the long leg of the red LED.
-   
-   ![Taping the longer leg of the red LED](./img/TLCircuit02.png)
+
+![Taping the longer leg of the red LED](./img/TLCircuit02.png)
 
 4. Complete steps 2 and 3 for the yellow and green LEDs.
    
 5. Take a longer bit of copper tape or foil and tape/glue all three of the short legs of the LEDs together.
-   
-   ![Completed traffic lights](./img/TLCircuit03.png)
+
+![Completed Circuit](./img/TLCircuit03.png)
 
 ## Connecting the micro:bit
 
@@ -43,7 +43,6 @@ Think of these legs like the LED's feet - they need to be connected the right wa
    
 4. Take the last crocodile/alligator lead and clip one end to the copper tape/aluminium foil of the longer leg of the green LED and attach the other end to pin 2 on the micro:bit.
 
-5. Take the micro USB cable and connect the micro:bit to the computer.
-   ![Completed Circuit](./img/TLCircuit04.png)
+![Wired to the micro:bit](./img/TLCircuit04.png)
 
-Let's move on and set-up our code editor.
+Let's move on and open up our code editor.

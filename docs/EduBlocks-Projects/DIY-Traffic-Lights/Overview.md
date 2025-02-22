@@ -4,7 +4,7 @@ description: 'Create your own micro:bit traffic light add-on board'
 sidebar_position: 1
 ---
 
-![Traffic Lights Cover Image](./img/TLCircuit03.png)
+![Traffic Lights cover image](./img/TLCircuit03.png)
 
 ## Overview
 
@@ -30,5 +30,5 @@ By the end of this project, you will understand:
 - 1 x micro:bit (version 1 and 2 will work)
 - 1 x Micro USB cable
 - 1 x Battery pack for the micro:bit (optional)
-  
-Let's move on and create our traffic light circuit.
+
+Let's move on to creating our traffic circuit.

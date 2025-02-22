@@ -2,9 +2,6 @@
 title: How to Play
 sidebar_position: 6
 ---
-## Web Browser
-
-Within the micro:bit simulator you will see that the pins light up red as the code is switching between them.
 
 ## Using the micro:bit
 

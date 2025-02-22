@@ -142,7 +142,7 @@ export default {
         type: 'link',
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/MCTL', // The external URL
-      },]
+      },],
   },
   Python: {
     'Rock Paper Scissors': ['Python-Projects/Rock-Paper-Scissors/Overview',
@@ -177,6 +177,17 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/PYES', // The external URL
       },],
+      'Signal Builder: DIY micro:bit Traffic Lights': ['Python-Projects/DIY-Traffic-Lights/Overview', 
+      'Python-Projects/DIY-Traffic-Lights/Creating-the-circuit',
+      'Python-Projects/DIY-Traffic-Lights/Set-Up',
+      'Python-Projects/DIY-Traffic-Lights/Coding',
+      'Python-Projects/DIY-Traffic-Lights/DownloadingTheCode',
+      'Python-Projects/DIY-Traffic-Lights/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: 'https://go.raspikidd.com/MCTL', // The external URL
+      },]
   },
 };
 //export default sidebars;

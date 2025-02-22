@@ -47,7 +47,7 @@ const FeatureList: FeatureItem[] = [
     Label: 'Go to Project',
     src:'/docs/Python-Projects/Sensing-the-Environment/Overview'
   },
-  /*{
+  {
     title: 'Traffic Lights Add-On Board',
     Svg: require('@site/static/img/ProjectCovers/TrafficLights.svg').default,
     description: (
@@ -56,9 +56,9 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'Go to Project',
-    src:'#'
+    src:'/docs/Python-Projects/DIY-Traffic-Lights/Overview'
   },
-  {
+  /*{
     title: 'Throw a Ghost',
     Svg: require('@site/static/img/ProjectCovers/ThrowGhostCover.svg').default,
     description: (

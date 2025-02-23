@@ -1,6 +1,6 @@
 ---
-title: 'Introduction'
-description: 'Create your own micro:bit traffic light add-on board'
+title: 'Signal Builder: DIY Traffic Lights'
+description: 'Build your own working traffic light system using a micro:bit, cardboard, sticky copper tape, and colored LEDs - then program it to change from red to amber to green just like real traffic lights on the street!'
 sidebar_position: 1
 ---
 

@@ -141,7 +141,7 @@ export default {
       {
         type: 'link',
         label: 'PDF Download', // The link label
-        href: 'https://go.raspikidd.com/MCTL', // The external URL
+        href: 'https://go.raspikidd.com/EBTL', // The external URL
       },],
   },
   Python: {
@@ -186,7 +186,7 @@ export default {
       {
         type: 'link',
         label: 'PDF Download', // The link label
-        href: 'https://go.raspikidd.com/MCTL', // The external URL
+        href: 'https://go.raspikidd.com/PYTL', // The external URL
       },]
   },
 };

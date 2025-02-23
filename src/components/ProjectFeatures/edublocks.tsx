@@ -55,7 +55,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/ProjectCovers/TrafficLights.svg').default,
     description: (
       <>
-        Create your own traffic lights add-on board for the micro:bit.
+        Build your own working traffic light system using a micro:bit, cardboard, sticky copper tape, and 
+        colored LEDs - then program it to change from red to amber to green just like real traffic lights on 
+        the street!
       </>
     ),
     Label: 'Go to Project',

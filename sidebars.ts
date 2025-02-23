@@ -79,7 +79,7 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/MCSC', // The external URL
       },],
-      'Sensing the Environment Project': ['MakeCode-Projects/Sensing-the-Environment/Overview', 
+      'Mission: Environment Detective - Exploring Our World with micro:bit': ['MakeCode-Projects/Sensing-the-Environment/Overview', 
       'MakeCode-Projects/Sensing-the-Environment/Set-Up',
       'MakeCode-Projects/Sensing-the-Environment/Coding',
       'MakeCode-Projects/Sensing-the-Environment/DownloadingTheCode',
@@ -122,7 +122,7 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/EBSC', // The external URL
       },],
-      'Sensing the Environment': ['EduBlocks-Projects/Sensing-the-Environment/Overview',
+      'Mission: Environment Detective - Exploring Our World with micro:bit': ['EduBlocks-Projects/Sensing-the-Environment/Overview',
       'EduBlocks-Projects/Sensing-the-Environment/Set-Up',
       'EduBlocks-Projects/Sensing-the-Environment/Coding',
       'EduBlocks-Projects/Sensing-the-Environment/DownloadingTheCode',
@@ -167,7 +167,7 @@ export default {
         href: 'https://go.raspikidd.com/PYSC', // The external URL
       },],
 
-      'Sensing the Environment': ['Python-Projects/Sensing-the-Environment/Overview',
+      'Mission: Environment Detective - Exploring Our World with micro:bit': ['Python-Projects/Sensing-the-Environment/Overview',
       'Python-Projects/Sensing-the-Environment/Set-Up',
       'Python-Projects/Sensing-the-Environment/Coding',
       'Python-Projects/Sensing-the-Environment/DownloadingTheCode',

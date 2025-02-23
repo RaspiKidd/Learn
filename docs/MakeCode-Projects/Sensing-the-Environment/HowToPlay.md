@@ -14,7 +14,7 @@ You will also see a slider with a temperature reading next to it. We can move th
 
 ### Light Sensing
 
-Select the **A** button to show the amount of light being detected. Above the A button you will see a cirlce appear. You can drag the yellow part up and down to adjust the light level and when the A button is pressed it will be depicted on the LED matrix.
+Select the **A** button to show the amount of light being detected. Above the A button you will see a circle appear. You can drag the yellow part up and down to adjust the light level and when the A button is pressed it will be depicted on the LED matrix.
 
 ### Compass Sensing
 
@@ -35,7 +35,7 @@ Press the A button to get a light level reading
 Press the B button to get a reading from the compass.
 
 :::info[NOTE]
-If you are using the compass for the first time, you will get a message to move the micro:bit around to light every LED up on the LED matrix. This is to callibrate the micro:bit to get an accutate as possible compass reading.
+If you are using the compass for the first time, you will get a message to move the micro:bit around to light every LED up on the LED matrix. This is to calibrate the micro:bit to get an accurate as possible compass reading.
 :::
 
 Now go around different room/outdoors to see the difference in temperature and light level.

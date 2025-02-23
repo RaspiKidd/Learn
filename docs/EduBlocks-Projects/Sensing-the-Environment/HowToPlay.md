@@ -5,7 +5,7 @@ sidebar_position: 4
 
 ## Using the micro:bit
 
-When the micro:bit first starts we will need to callibrate the compass by lighting up all the LEDs on the matrix.
+When the micro:bit first starts we will need to calibrate the compass by lighting up all the LEDs on the matrix.
 
 Shake the micro:bit to display the temperature on the LED matrix.
 

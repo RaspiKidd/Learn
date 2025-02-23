@@ -15,7 +15,7 @@ Under the micro:bit simulator you will see that the shake function is selected a
 
 ![the shake function](./img/shakeFunction.png)
 
-We can also edit the temperature reading by moving the slider next to the little themometer.
+We can also edit the temperature reading by moving the slider next to the little thermometer.
 
 ![The Temperature sensor](./img/TemperatureSensor.png)
 
@@ -46,7 +46,7 @@ When the light level is below 100 we will get a smiley face displayed on the LED
  Press the B button to detect which direction we are facing.
 
 :::info[NOTE]
-If you are using the compass for the first time, you will get a message to move the micro:bit around to light every LED up on the LED matrix. This is to callibrate the micro:bit to get an accutate as possible compass reading.
+If you are using the compass for the first time, you will get a message to move the micro:bit around to light every LED up on the LED matrix. This is to calibrate the micro:bit to get an accurate as possible compass reading.
 :::
 
 Now go around different room/outdoors to see the difference in temperature and light level.

@@ -38,12 +38,13 @@ const FeatureList: FeatureItem[] = [
     src: '/docs/EduBlocks-Projects/FitBit-Clone/Overview'
   }, 
   {
-    title: 'Sensing the Environment',
+    title: 'Mission: Environment Detective - Exploring Our World with micro:bit',
     Svg: require('@site/static/img/ProjectCovers/EnviroSensing.svg').default,
     description: (
       <>
-        Exploring your environment by using the temperature sensor, light sensor and 
-        compass on the micro:bit.
+        Become an environmental explorer as you harness the power of micro:bit's sensors to decode the hidden 
+        data in your surroundings - from tracking temperature changes to measuring light levels and finding 
+        your way with the digital compass!
       </>
     ),
     Label: 'Go to Project',

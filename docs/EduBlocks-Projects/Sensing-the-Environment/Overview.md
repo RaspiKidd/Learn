@@ -1,6 +1,6 @@
 ---
-title: 'Introduction'
-description: 'Exploring your environment with the built-in sensors on the micro:bit'
+title: 'Mission: Environment Detective - Exploring Our World with micro:bit'
+description: 'Become an environmental explorer as you harness the power of micro:bits sensors to decode the hidden data in your surroundings - from tracking temperature changes to measuring light levels and finding your way with the digital compass!'
 sidebar_position: 1
 ---
 
@@ -8,22 +8,19 @@ sidebar_position: 1
 
 ## Overview
 
-We are going to explore our environment by using the temperature sensor, light sensor and compass on the micro:bit.
+Ever wondered how we can use technology to understand the world around us? In this exciting project, you will become an environmental detective using your micro:bit's built-in superpowers!
+
+Just like our five senses help us explore the world, your micro:bit has special sensors that can tell you:
+
+- How warm or cold it is using its temperature sensor
+- How bright or dark it is using its light sensor
+- Which direction you're facing using its compass
 
 ## What you will Learn
 
-How to;
-
-- [ ] Use the shake function.
-- [ ] Display a number on the LED matrix.
-- [ ] Use the temperature sensor.
-- [ ] Use the button function.
-- [ ] Use the if/else conditions.
-- [ ] Use comparison operators.
-- [ ] Display patterns on the LED matrix.
-- [ ] Clear the LED matrix.
-- [ ] Use the compass.
-- [ ] Use the light sensor.
+- [ ] Display temperature readings
+- [ ] Create a light meter that reacts to brightness
+- [ ] Build a digital compass to find your way
 
 ## What you will Need
 
@@ -31,4 +28,4 @@ How to;
 - 1 x micro USB cable
 - 1 x battery pack for the micro:bit (optional)
 
-Let's move on to opening the EduBlocks editor.
+Are you ready to start exploring? Let's begin our environmental adventure!

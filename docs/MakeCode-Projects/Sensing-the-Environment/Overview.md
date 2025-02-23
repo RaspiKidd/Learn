@@ -1,14 +1,20 @@
 ---
-title: 'Introduction'
-description: 'Use your micro:bit to sense the environment around you.'
+title: 'Mission: Environment Detective - Exploring Our World with micro:bit'
+description: 'Become an environmental explorer as you harness the power of micro:bits sensors to decode the hidden data in your surroundings - from tracking temperature changes to measuring light levels and finding your way with the digital compass!'
 sidebar_position: 1
 ---
 
-![Project cover](./img/EnviroSensing.png)
+![Project cover Image](./img/EnviroSensing.png)
 
 ## Overview
 
-We are going to explore our environment by using the temperature sensor, light sensor and compass on the micro:bit.
+Ever wondered how we can use technology to understand the world around us? In this exciting project, you will become an environmental detective using your micro:bit's built-in superpowers!
+
+Just like our five senses help us explore the world, your micro:bit has special sensors that can tell you:
+
+- How warm or cold it is using its temperature sensor
+- How bright or dark it is using its light sensor
+- Which direction you're facing using its compass
 
 :::info[Note]
 You do not need a micro:bit to do this tutorial you can use the simulator built into the MakeCode editor.
@@ -16,16 +22,8 @@ You do not need a micro:bit to do this tutorial you can use the simulator built 
 
 ## What you will Learn
 
-How to;
-
-- [ ] Use the on shake function.
-- [ ] Display a number on the LED matrix.
-- [ ] Use the temperature sensor.
-- [ ] Use the button function.
-- [ ] Use the if/else conditions.
-- [ ] Use comparison operators.
-- [ ] Display patterns on the LED matrix.
-- [ ] Clear the LED matrix.
-- [ ] Use the compass.
+- [ ] Display temperature readings
+- [ ] Create a light meter that reacts to brightness
+- [ ] Build a digital compass to find your way
   
-Let's open our code editor.
+Are you ready to start exploring? Let's begin our environmental adventure!

@@ -143,6 +143,16 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/EBTL', // The external URL
       },],
+      'Spooky Signals: Ghost Throwing Challenge': ['EduBlocks-Projects/Spooky-Signals/Overview', 
+      'EduBlocks-Projects/Spooky-Signals/Set-Up',
+      'EduBlocks-Projects/Spooky-Signals/Coding',
+      'EduBlocks-Projects/Spooky-Signals/DownloadingTheCode',
+      'EduBlocks-Projects/Spooky-Signals/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: 'https://go.raspikidd.com/EBTL', // The external URL
+      },],
   },
   Python: {
     'Shake, Code & Battle: micro:bit Rock Paper Scissors': ['Python-Projects/Rock-Paper-Scissors/Overview',
@@ -187,7 +197,7 @@ export default {
         type: 'link',
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/PYTL', // The external URL
-      },]
+      },],
   },
 };
 //export default sidebars;

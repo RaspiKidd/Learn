@@ -63,17 +63,19 @@ const FeatureList: FeatureItem[] = [
     Label: 'Go to Project',
     src:'/docs/Python-Projects/DIY-Traffic-Lights/Overview'
   },
-  /*{
-    title: 'Throw a Ghost',
+  {
+    title: 'Spooky Signals: micro:bit Ghost Throwing Challenge',
     Svg: require('@site/static/img/ProjectCovers/ThrowGhostCover.svg').default,
     description: (
       <>
-        Exploring the micro:bit radio function by throwing a ghost bewtween two micro:bits
+        The Teleporting Ghost project lets you magically send a ghost between micro:bits by shaking them, 
+        creating an engaging way to learn about wireless communication while having fun with spooky LED 
+        animations.
       </>
     ),
     Label: 'Go to Project',
     src:'#'
-  }*/
+  }
 ];
 
 

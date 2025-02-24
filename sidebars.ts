@@ -208,6 +208,16 @@ export default {
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/PYTL', // The external URL
       },],
+      'Spooky Signals: micro:bit Ghost Throwing Challenge': ['Python-Projects/Spooky-Signals/Overview', 
+        'Python-Projects/Spooky-Signals/Set-Up',
+        'Python-Projects/Spooky-Signals/Coding',
+        'Python-Projects/Spooky-Signals/DownloadingTheCode',
+        'Python-Projects/Spooky-Signals/HowToPlay',
+        {
+          type: 'link',
+          label: 'PDF Download', // The link label
+          href: 'https://go.raspikidd.com/PYSS', // The external URL
+        },],
   },
 };
 //export default sidebars;

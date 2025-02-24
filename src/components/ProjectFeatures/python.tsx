@@ -74,7 +74,7 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'Go to Project',
-    src:'#'
+    src:'/docs/Python-Projects/Spooky-Signals/Overview'
   }
 ];
 

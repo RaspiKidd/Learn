@@ -16,7 +16,7 @@ Just like our five senses help us explore the world, your micro:bit has special 
 - How bright or dark it is using its light sensor
 - Which direction you're facing using its compass
 
-:::info[Note]
+:::info[NOTE]
 You do not need a micro:bit to do this tutorial you can use the simulator built into the MakeCode editor.
 :::
 

@@ -99,7 +99,17 @@ export default {
         type: 'link',
         label: 'PDF Download', // The link label
         href: 'https://go.raspikidd.com/MCTL', // The external URL
-      },]
+      },],
+      'Spooky Signals: micro:bit Ghost Throwing Challenge': ['MakeCode-Projects/Spooky-Signals/Overview', 
+      'MakeCode-Projects/Spooky-Signals/Set-Up',
+      'MakeCode-Projects/Spooky-Signals/Coding',
+      'MakeCode-Projects/Spooky-Signals/DownloadingTheCode',
+      'MakeCode-Projects/Spooky-Signals/HowToPlay',
+      {
+        type: 'link',
+        label: 'PDF Download', // The link label
+        href: 'https://go.raspikidd.com/MCSS', // The external URL
+      },],
   },
   EduBlocks: {
     'Shake, Code & Battle: micro:bit Rock Paper Scissors': ['EduBlocks-Projects/Rock-Paper-Scissors/Overview',

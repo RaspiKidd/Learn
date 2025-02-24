@@ -74,7 +74,7 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
     Label: 'Go to Project',
-    src:'#'
+    src:'/docs/MakeCode-Projects/Spooky-Signals/Overview'
   }
 ];
 

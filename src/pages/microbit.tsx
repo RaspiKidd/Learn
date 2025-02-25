@@ -46,7 +46,7 @@ function PageHeader() {
                 </p>
             </div>
             <div className="column">
-                <img src="/img/microbitCover.png" />
+                <img src="/img/microbitCover.png" alt="Image of the front and back of the micro:bit" />
             </div>
         </div>
         <Heading as="h2">

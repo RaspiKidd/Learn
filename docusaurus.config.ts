@@ -75,7 +75,7 @@ const config: Config = {
     navbar: {
       //title: 'RaspiKidd',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'RaspiKidd Logo',
         src: 'img/RaspiKidd.svg',
         href: 'https://raspikidd.com',
       },

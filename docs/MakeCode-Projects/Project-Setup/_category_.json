@@ -1,6 +1,7 @@
 {
   "label": "Rock Paper Scissors",
   "position": 1,
+  "draft": true,
   "link": {
     "type": "generated-index"
   }

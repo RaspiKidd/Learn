@@ -5,12 +5,13 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
+  
   title: 'RaspiKidd Learning Hub',
   tagline: 'Explore fun, interactive STEM activities, resources, and tutorials to spark creativity and innovation.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://raspikiddlearn.netlify.app/',
+  url: 'https://learn.raspikidd.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -35,13 +36,13 @@ const config: Config = {
       },
     },
   },
-
   presets: [
     [
       'classic',
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          routeBasePath: 'docs',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
@@ -150,6 +151,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  plugins: [],
 };
 
 export default config;

@@ -6,6 +6,10 @@ sidebar_position: 1
 
 ![Project cover Image](./img/EnviroSensing.png)
 
+:::info[DOWNLOADABLE PDF]
+[Click Here to Download PDF](./EnviroSensing.pdf)
+:::
+
 ## Overview
 
 Ever wondered how we can use technology to understand the world around us? In this exciting project, you will become an environmental detective using your micro:bit's built-in superpowers!

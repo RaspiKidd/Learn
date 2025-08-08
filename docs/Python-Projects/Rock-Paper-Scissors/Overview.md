@@ -6,6 +6,10 @@ sidebar_position: 1
 
 ![Rock Paper Scissors cover](./img/RockPaperScissors.png)
 
+:::info[DOWNLOADABLE PDF]
+[Click Here to Download PDF](./RockPaperScissors.pdf)
+:::
+
 ## Overview
 
 In this engaging project, you'll learn how to program your micro:bit to play Rock Paper Scissors using a combination of buttons, gestures, and the LED display. We'll start by understanding the basic game logic and how to represent rock, paper, and scissors using different inputs. You'll discover how to use random selection for the computer's choice, display game outcomes using animations, and keep track of scores. Through this project, you'll develop fundamental coding concepts like variables, conditionals, and loops while creating something fun and interactive. By the end, you'll have a fully functional game that you can play with friends or challenge the computer – all powered by your micro:bit!

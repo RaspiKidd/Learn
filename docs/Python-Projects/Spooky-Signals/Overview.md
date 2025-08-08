@@ -6,6 +6,10 @@ sidebar_position: 1
 
 ![Spooky signals Cover image](./img/ThrowGhost_Cover.png)
 
+:::info[DOWNLOADABLE PDF]
+[Click Here to Download PDF](./Spooky-Signals.pdf)
+:::
+
 ## Overview
 
 The Teleporting Ghost project brings coding to life by creating an interactive ghost that can magically travel between two micro:bits! Using the micro:bit's built-in motion sensor and radio capabilities, you will learn how devices can communicate wirelessly while creating a fun and spooky experience.

@@ -6,6 +6,10 @@ sidebar_position: 1
 
 ![DIY Traffic Lights cover](./img/TLCircuit03.png)
 
+:::info[DOWNLOADABLE PDF]
+[Click Here to Download PDF](./DIYTrafficLights.pdf)
+:::
+
 ## Overview
 
 In this exciting project, we will transform everyday materials into a working traffic light system! Using cardboard, copper tape/Aluminium foil, and LEDs connected to a micro:bit, you will build your own traffic light controller from scratch.

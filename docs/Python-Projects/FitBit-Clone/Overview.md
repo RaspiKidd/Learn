@@ -6,6 +6,10 @@ sidebar_position: 1
 
 ![FitBit Clone cover](./img/counter.png)
 
+:::info[DOWNLOADABLE PDF]
+[Click Here to Download PDF](./FitBitClone.pdf)
+:::
+
 ## Overview
 
 Ever wonder how your smartwatch knows exactly how many steps you've taken? In this exciting project, we'll demystify fitness tracking technology by creating our own step counter using a micro:bit! Unlike expensive commercial devices, our DIY fitness tracker will help you understand the basic principles of motion detection and how simple sensors can count your daily steps.

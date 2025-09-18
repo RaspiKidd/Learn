@@ -1,0 +1,35 @@
+---
+title: Key Scratch Concepts
+sidebar_position: 4
+---
+
+- 🎭 **Sprites**
+  - Characters or objects in your project. The orange cat is the default sprite, but you can:
+    - Add new sprites from the library
+    - Draw your own sprites
+    - Upload photos to become sprites
+- 📜 **Scripts**
+  - Sets of instructions that tell sprites what to do. Scripts are made by connecting blocks.
+- 🎪 **Stage**
+  - The background area where all the action happens. The stage:
+    - Is 480 units wide × 360 units tall
+    - Has coordinates with (0,0) at the centre
+    - Can have different backdrops
+- 🧱 **Blocks**
+  - The building blocks of Scratch programs. They snap together like puzzle pieces and are colour-coded by category:
+    - Motion (blue) - movement and positioning
+    - Looks (purple) - appearance and speech
+    - Sound (pink) - audio effects and music
+    - Events (yellow) - starting triggers
+    - Control (orange) - loops and decisions
+    - Sensing (light blue) - detecting input and collisions
+- 🎨 **Costumes**
+  - Different outfits or appearances for sprites. Use costumes to:
+    - Create animation (walking cycles, facial expressions)
+    - Show different states (happy/sad, alive/defeated)
+    - Add visual variety to projects
+- 🌄 **Backdrops**
+  - Background images for the stage. Change backdrops to:
+    - Set the scene for stories
+    - Create different levels in games
+    - Show progression through projects

@@ -83,6 +83,7 @@ const config: Config = {
       items: [
         {to: '/', label: 'Home', position: 'left'},
         {to: '/microbit', label: 'micro:bit', position: 'left'},
+        {to: '/training', label: 'Training', position: 'left'},
         /*{
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',

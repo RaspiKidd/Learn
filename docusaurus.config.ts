@@ -152,6 +152,8 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
   plugins: [],
+
+  clientModules: [require.resolve('./src/redirects.js')],
 };
 
 export default config;

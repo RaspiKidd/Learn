@@ -8,7 +8,7 @@ console.log('[redirects] module loaded');
 const MIGRATED = {
   '/docs/MakeCode-Projects/FitBit-Clone': 'https://raspikidd.com/learn/microbit/makecode/microfit/',
   '/docs/EduBlocks-Projects/FitBit-Clone': 'https://raspikidd.com/learn/microbit/edublocks/microfit/',
-  '/docs/Python-Projects/FitBit-Clone': 'https://raspikidd.com/learn/microbit/python/microfit/',
+  '/docs/PythonProjects/FitBit-Clone': 'https://raspikidd.com/learn/microbit/python/microfit/',
 };
 
 function redirectIfMigrated(pathname, when) {

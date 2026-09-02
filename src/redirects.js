@@ -35,11 +35,11 @@ if (typeof window !== 'undefined') {
 }
 
 // 2) BEFORE each in-app route renders (so the old page never flashes).
+//    Only hook this one in. Also firing a redirect from onRouteDidUpdate
+//    sends a second, competing cross-origin navigation shortly after the
+//    first one already kicked off -- the browser can abort the first
+//    navigation mid-flight, landing on the correct URL but with a blank
+//    page (this is the bug that was added here vs. the working version).
 export function onRouteUpdate({ location }) {
   redirectIfMigrated(location.pathname, 'onRouteUpdate');
-}
-
-// 3) Belt-and-braces: also AFTER render, in case onRouteUpdate is ever missed.
-export function onRouteDidUpdate({ location }) {
-  redirectIfMigrated(location.pathname, 'onRouteDidUpdate');
 }

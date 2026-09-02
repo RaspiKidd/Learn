@@ -9,9 +9,9 @@ const MIGRATED = {
   '/docs/MakeCode-Projects/FitBit-Clone': 'https://raspikidd.com/learn/microbit/makecode/microfit/',
   '/docs/EduBlocks-Projects/FitBit-Clone': 'https://raspikidd.com/learn/microbit/edublocks/microfit/',
   '/docs/Python-Projects/FitBit-Clone': 'https://raspikidd.com/learn/microbit/python/microfit/',
-  '/docs/MakeCode-Projects/Rock-Paper-Scissors': 'https://raspikidd.com/learn/microbit/makecode/rock-paper-scissors',
-  '/docs/EduBlocks-Projects/Rock-Paper-Scissors': 'https://raspikidd.com/learn/microbit/edublocks/rock-paper-scissors',
-  '/docs/Python-Projects/Rock-Paper-Scissors': 'https://raspikidd.com/learn/microbit/python/rock-paper-scissors',
+  '/docs/MakeCode-Projects/Rock-Paper-Scissors': 'https://raspikidd.com/learn/microbit/makecode/rock-paper-scissors/',
+  '/docs/EduBlocks-Projects/Rock-Paper-Scissors': 'https://raspikidd.com/learn/microbit/edublocks/rock-paper-scissors/',
+  '/docs/Python-Projects/Rock-Paper-Scissors': 'https://raspikidd.com/learn/microbit/python/rock-paper-scissors/',
 };
 
 function redirectIfMigrated(pathname, when) {

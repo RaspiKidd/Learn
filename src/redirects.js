@@ -14,13 +14,20 @@ const MIGRATED = {
   '/docs/Python-Projects/Rock-Paper-Scissors': 'https://raspikidd.com/learn/microbit/python/rock-paper-scissors/',
 };
 
+// Docusaurus can generate lowercased slugs for some docs (depending on
+// whether a doc sets an explicit `slug` in its frontmatter), so the real
+// runtime pathname doesn't always match the source folder/file casing
+// exactly (e.g. Rock-Paper-Scissors -> /rock-paper-scissors/ at runtime).
+// Compare case-insensitively so casing drift like this can't silently
+// break a redirect again.
 function redirectIfMigrated(pathname, when) {
   // Guard: this file is also imported during the SSR build, where window is
   // undefined. Never touch browser APIs unless we're really in the browser.
   if (typeof window === 'undefined' || !pathname) return false;
   console.log('[redirects] check (' + when + '):', pathname);
+  const lowerPathname = pathname.toLowerCase();
   for (const oldPath in MIGRATED) {
-    if (pathname.startsWith(oldPath)) {
+    if (lowerPathname.startsWith(oldPath.toLowerCase())) {
       console.log('[redirects] MATCH -> replacing with', MIGRATED[oldPath]);
       window.location.replace(MIGRATED[oldPath]);
       return true;

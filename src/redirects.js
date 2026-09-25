@@ -12,6 +12,9 @@ const MIGRATED = {
   '/docs/MakeCode-Projects/Rock-Paper-Scissors': 'https://raspikidd.com/learn/microbit/makecode/rock-paper-scissors/',
   '/docs/EduBlocks-Projects/Rock-Paper-Scissors': 'https://raspikidd.com/learn/microbit/edublocks/rock-paper-scissors/',
   '/docs/Python-Projects/Rock-Paper-Scissors': 'https://raspikidd.com/learn/microbit/python/rock-paper-scissors/',
+  '/docs/MakeCode-Projects/Sensing-the-Environment': 'https://raspikidd.com/learn/microbit/makecode/environment-detective/',
+  '/docs/EduBlocks-Projects/Sensing-the-Environment': 'https://raspikidd.com/learn/microbit/edublocks/environment-detective/',
+  '/docs/Python-Projects/Sensing-the-Environment': 'https://raspikidd.com/learn/microbit/python/environment-detective/',
 };
 
 // Docusaurus can generate lowercased slugs for some docs (depending on
